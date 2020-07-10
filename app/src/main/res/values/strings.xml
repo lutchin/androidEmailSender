@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Email Sender</string>
+    <string name="textEmail">Enter Your Message Here</string>
+    <string name="button">Send</string>
+    <string name="activity2_name">Send Email</string>
+    <string name="subject">Android task1</string>
+    <string name="email">Enter Email Here</string>
+    <string name="sendEmail">Send Email</string>
+    <string name="emailLabel">Email to</string>
+</resources>
